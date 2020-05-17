@@ -1,0 +1,28 @@
+[I 22:25:32.262 NotebookApp] JupyterLab extension loaded from C:\Users\rahul\Anaconda3\lib\site-packages\jupyterlab
+[I 22:25:32.263 NotebookApp] JupyterLab application directory is C:\Users\rahul\Anaconda3\share\jupyter\lab
+[I 22:25:32.315 NotebookApp] Serving notebooks from local directory: D:\sec_sys
+[I 22:25:32.316 NotebookApp] The Jupyter Notebook is running at:
+[I 22:25:32.318 NotebookApp] http://localhost:8888/?token=400868a0204d821427b3bec4fb14e8cfd0e6d9c268897377
+[I 22:25:32.318 NotebookApp]  or http://127.0.0.1:8888/?token=400868a0204d821427b3bec4fb14e8cfd0e6d9c268897377
+[I 22:25:32.318 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:25:32.481 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/rahul/AppData/Roaming/jupyter/runtime/nbserver-8004-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=400868a0204d821427b3bec4fb14e8cfd0e6d9c268897377
+     or http://127.0.0.1:8888/?token=400868a0204d821427b3bec4fb14e8cfd0e6d9c268897377
+[I 22:51:00.830 NotebookApp] Creating new notebook in /python
+[I 22:51:05.040 NotebookApp] Kernel started: e968e74f-a06f-45d9-a8f3-cb8a0a9ce303
+[I 22:53:05.054 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 22:53:05.859 NotebookApp] Creating new file in /python
+[I 22:53:26.097 NotebookApp] Saving file at /python/file.txt
+[I 22:55:04.688 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 22:57:04.619 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 22:59:04.647 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:01:04.653 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:03:04.650 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:05:04.662 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:07:04.649 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:09:04.653 NotebookApp] Saving file at /python/File Handling.ipynb
+[I 23:11:04.659 NotebookApp] Saving file at /python/File Handling.ipynb
